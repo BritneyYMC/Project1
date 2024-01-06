@@ -9,5 +9,7 @@ public class TestDemo {
 
 		//Coming from GitHub
 		System.out.println("Day 2");
+		
+		System.out.println("Stash comment test");
 	}
 }

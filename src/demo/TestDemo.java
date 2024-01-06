@@ -12,4 +12,6 @@ public class TestDemo {
 		
 		System.out.println("Stash comment test");
 	}
+
+	//Today is friday
 }

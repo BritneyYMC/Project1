@@ -16,4 +16,6 @@ public class TestDemo {
 	//Today is friday
 	
 	//Hello GitHub
+
+	//Today is friday2
 }
